@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/tictactoe-live-60005-57d17b70/tic_tac_toe_backend_workspace/tic_tac_toe_backend"
+}
